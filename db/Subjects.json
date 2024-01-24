@@ -1,0 +1,122 @@
+[
+    {
+        "Id": "ADAV",
+        "Name": "Lập trình Android nâng cao",
+        "Logo": "ADAV.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "ADBS",
+        "Name": "Lập trình Android cơ bản",
+        "Logo": "ADBS.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "ADTE",
+        "Name": "Kiểm thử và triển khai ứng dụng Android",
+        "Logo": "ADTE.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "ADUI",
+        "Name": "Thiết kế giao diện trên Android",
+        "Logo": "ADUI.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "ASNE",
+        "Name": "Lập trình ASP.NET",
+        "Logo": "ASNE.png",
+        "Quiz": []
+    },
+    {
+        "Id": "CLCO",
+        "Name": "Điện toán đám mây",
+        "Logo": "CLCO.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "DBAV",
+        "Name": "SQL Server",
+        "Logo": "DBAV.png",
+        "Quiz": []
+    },
+    {
+        "Id": "DBBS",
+        "Name": "Cơ sở dữ liệu",
+        "Logo": "DBBS.png",
+        "Quiz": []
+    },
+    {
+        "Id": "GAME",
+        "Name": "Lập trình game 2D",
+        "Logo": "GAME.png",
+        "Quiz": []
+    },
+    {
+        "Id": "HTCS",
+        "Name": "HTML5 và CSS3",
+        "Logo": "HTCS.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "INMA",
+        "Name": "Internet Marketing",
+        "Logo": "INMA.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "JAAV",
+        "Name": "Lập trình Java nâng cao",
+        "Logo": "JAAV.png",
+        "Quiz": []
+    },
+    {
+        "Id": "JABS",
+        "Name": "Lập trình hướng đối tượng với Java",
+        "Logo": "JABS.png",
+        "Quiz": []
+    },
+    {
+        "Id": "JSPR",
+        "Name": "Lập trình JavaScript",
+        "Logo": "JSPR.png",
+        "Quiz": []
+    },
+    {
+        "Id": "LAYO",
+        "Name": "Thiết kế layout",
+        "Logo": "LAYO.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "MOWE",
+        "Name": "Thiết kế web cho điện thoại di động",
+        "Logo": "MOWE.png",
+        "Quiz": []
+    },
+    {
+        "Id": "PHPP",
+        "Name": "Lập trình PHP",
+        "Logo": "PHPP.png",
+        "Quiz": []
+    },
+    {
+        "Id": "PMAG",
+        "Name": "Quản lý dự án với Agile",
+        "Logo": "PMAG.jpg",
+        "Quiz": []
+    },
+    {
+        "Id": "VBPR",
+        "Name": "Lập trình VB.NET",
+        "Logo": "VBPR.png",
+        "Quiz": []
+    },
+    {
+        "Id": "WEBU",
+        "Name": "Xây dựng trang web",
+        "Logo": "WEBU.jpg",
+        "Quiz": []
+    }
+]

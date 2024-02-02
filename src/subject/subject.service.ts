@@ -4,9 +4,6 @@ const path = require('path');
 import { CreateSubjectDto } from './dto/create-subject.dto';
 import { UpdateSubjectDto } from './dto/update-subject.dto';
 
-// import * as SubjectList from './db/Subjects.json';
-// import * as QuizList from './db/Quizes.json';
-
 @Injectable()
 export class SubjectService {
   create(createSubjectDto: CreateSubjectDto) {

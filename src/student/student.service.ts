@@ -5,7 +5,6 @@ import {
 } from '@nestjs/common';
 import { CreateStudentDto } from './dto/create-student.dto';
 import { UpdateStudentDto } from './dto/update-student.dto';
-import { getOneStudentDto } from './dto/getOneStudent.dto';
 import { InjectModel } from '@nestjs/mongoose';
 import { Student } from './student.schema';
 import { Model, Document as MongooseDocument } from 'mongoose';

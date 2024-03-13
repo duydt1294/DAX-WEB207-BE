@@ -19,16 +19,16 @@ export type studentDocument = HydratedDocument<Student>;
 @Schema()
 export class Student {
   @Prop()
-  username: string;
+  username: String;
 
   @Prop()
-  password: string;
+  password: String;
 
   @Prop()
-  fullname: string;
+  fullname: String;
 
   @Prop()
-  email: string;
+  email: String;
 
   @Prop()
   gender: boolean;
@@ -37,10 +37,10 @@ export class Student {
   birthday: Date;
 
   @Prop()
-  schoolfee: number;
+  schoolfee: Number;
 
   @Prop()
-  mark: number;
+  mark: Number;
 }
 
 export const StudentSchema = SchemaFactory.createForClass(Student);

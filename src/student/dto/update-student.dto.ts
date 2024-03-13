@@ -7,7 +7,7 @@ export class UpdateStudentDto extends PartialType(CreateStudentDto) {
     fullname: string;
     email: string;
     gender: boolean;
-    birthday: string;
+    birthday: Date;
     schoolfee: number;
     marks: number;
 }

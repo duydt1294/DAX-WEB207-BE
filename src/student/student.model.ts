@@ -5,9 +5,9 @@ export class StudentSchema extends mongoose.Schema {
   password: { type: String; required: true };
   fullname: { type: String; required: true };
   email: { type: String; required: true };
-  gender: { type: String; required: true };
+  gender: { type:Boolean; required: true };
   birthday: { type: Date; required: true };
-  schoolfee: { type: String; required: true };
+  schoolfee: { type: Number; required: true };
   mark: { type: Number; required: true };
 }
 

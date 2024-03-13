@@ -4,8 +4,8 @@ export interface Student {
   password: string;
   fullname: string;
   email: string;
-  gender: string;
+  gender: boolean;
   birthday: Date;
-  schoolfee: string;
+  schoolfee: number;
   mark: number;
 }

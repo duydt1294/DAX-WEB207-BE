@@ -7,7 +7,7 @@ import { SubjectModule } from './subject/subject.module';
 
 @Module({
   imports: [StudentModule, SubjectModule, MongooseModule.forRoot(
-    'mongodb+srv://duydt1294:EROkLAHrk5X0L6Qp@cluster0.tirsfay.mongodb.net/Students?retryWrites=true&w=majority',
+    'mongodb+srv://duydt1294:EROkLAHrk5X0L6Qp@cluster0.tirsfay.mongodb.net/quanlykhoahoc?retryWrites=true&w=majority',
   ),],
   controllers: [AppController],
   providers: [AppService],

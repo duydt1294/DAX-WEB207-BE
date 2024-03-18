@@ -17,6 +17,7 @@ import { HydratedDocument } from 'mongoose';
 export type studentDocument = HydratedDocument<Student>;
 
 @Schema()
+@Schema({collection: 'Students'})
 export class Student {
   @Prop()
   username: String;
